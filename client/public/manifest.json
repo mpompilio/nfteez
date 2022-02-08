@@ -1,0 +1,26 @@
+{
+  "short_name": "nfteez.",
+  "name": "nfteez.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#FE4A49",
+  "background_color": "#dbdbdb",
+  "description": "app that allows you to vote on different NFTs"
+}
